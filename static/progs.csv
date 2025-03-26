@@ -71,3 +71,14 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,moreutils,"is a collection of useful unix tools."
 ,tesseract,"command-line OCR engine for advance maimpick"
 ,tesseract-data-eng,"english language pack for OCR"
+G,base-devel
+G,clang
+G,cmake
+G,gdb
+G,lldb
+G,valgrind
+G,strace
+G,binutils
+G,make
+A,ghidra-bin
+A,cutter
